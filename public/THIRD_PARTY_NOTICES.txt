@@ -1,0 +1,33 @@
+Shellseed bundles web-tree-sitter (0.25.10) and the tree-sitter-bash (0.25.1)
+WASM grammar. Both are MIT licensed. No script is sent to either project.
+
+web-tree-sitter / Tree-sitter
+https://github.com/tree-sitter/tree-sitter
+Copyright (c) 2018-2024 Max Brunsfeld
+
+tree-sitter-bash
+https://github.com/tree-sitter/tree-sitter-bash
+Copyright (c) 2017 Max Brunsfeld
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Development and test dependencies and their license texts are distributed in
+node_modules by npm; see package-lock.json for exact versions and integrity.
